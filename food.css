@@ -1,0 +1,7 @@
+*{
+    background-color: aliceblue;
+    text-align: center;
+}
+.navbar-brand{
+    border-radius: 50%;
+}
